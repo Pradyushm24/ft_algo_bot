@@ -1,0 +1,29 @@
+# Python cache files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Token and secrets
+token.txt
+config.json
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
