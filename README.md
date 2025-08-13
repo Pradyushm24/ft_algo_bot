@@ -1,4 +1,4 @@
-# Flattrade Paper Trading Bot for FinNift
+# Flattrade Paper Trading Bot for FinNifty
 This is a *paper trading bot* built using *Flattrade Broker API*, designed for FinNifty options trading based on a custom hedging strategy. It includes real-time monitoring, trailing stop loss, re-entry logic, and expiry-based forced exit.
 
 ## 📌 Strategy Details
